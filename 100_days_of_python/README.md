@@ -1,0 +1,1 @@
+This repository is a project to create a slot machine.
